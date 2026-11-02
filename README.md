@@ -24,9 +24,6 @@ Two-wheeled bot that uses camera to locate trash. determines said trashes classi
 <img width="492" height="257" alt="Image" src="https://github.com/user-attachments/assets/0390fd20-4a2d-45b1-b58f-a704370b4751" />
 
 
-<img width="426" height="238" alt="Image" src="https://github.com/user-attachments/assets/7c8ad66f-a2aa-4004-ab65-86289c2ed87e" />
+<img width="426" height="238" alt="Image" src="https://github.com/user-attachments/assets/7c8ad66f-a2aa-4004-ab65-86289c2ed87e" /><img width="320" height="240" alt="openmvvView" src="https://github.com/user-attachments/assets/72bb5544-7e54-4c29-bc6f-993ed3399553" />
 
-**OPENMV camra view**
-
-<img width="320" height="240" alt="successfulltrial-ezgif com-optimize" src="https://github.com/user-attachments/assets/7cddbbd5-a3b6-4115-b50d-8bd5e830a5b8" />
 
